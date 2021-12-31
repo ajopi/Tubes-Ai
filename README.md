@@ -4,7 +4,7 @@ Kami membuat image clasification Gender berdasar wajah,label dari dtaset ini ber
 1.Wajah Laki-laki : 2000 <br />
 2.Wajah   : 2000 <br />
 ### Teknik Deep Learning yang digunakan
-* Teknik learning yang di gunakan adalah Transfer Learning 
+* Model dengan menggunakan algoritma Transfer Learning VGG16
 ### Jurnal referensi
 Jurnal referensi projek ini berjudul CNN Modeling Untuk Deteksi Wajah Berbasis Gender. Nengsih Warnia, 2020. CNN Modeling Untuk Deteksi Wajah Berbasis Gender, Politeknik Caltex Riau. Terbit online pada laman https://jurnal.pcr.ac.id/index.php/jkt/ 
 ### Cara Pengeksekusian Program
